@@ -10,6 +10,26 @@ The platform combines traditional business workflows with lightweight, explainab
 
 ---
 
+## 📸 Application Screenshots
+
+### Dashboard
+
+![PharmaFlow AI Dashboard](photos/dashboard.png)
+
+### Analytics
+
+![PharmaFlow AI Analytics](photos/analytics.png)
+
+### AI Insights
+
+![PharmaFlow AI - AI Insights](photos/ai-insights.png)
+
+### Visit Management
+
+![PharmaFlow AI - Visit Management](photos/visits.png)
+
+---
+
 ## 🚀 Product Overview
 
 Pharmaceutical field teams often manage large numbers of doctors, hospitals, chemists, and distributors while simultaneously tracking visits, follow-ups, work plans, and employee performance.
